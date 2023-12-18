@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web-jhamil/static/css/main.dc4d6ff2.css",
+    "main.js": "/web-jhamil/static/js/main.b72358fe.js",
+    "static/js/787.0baa53f2.chunk.js": "/web-jhamil/static/js/787.0baa53f2.chunk.js",
+    "index.html": "/web-jhamil/index.html",
+    "main.dc4d6ff2.css.map": "/web-jhamil/static/css/main.dc4d6ff2.css.map",
+    "main.b72358fe.js.map": "/web-jhamil/static/js/main.b72358fe.js.map",
+    "787.0baa53f2.chunk.js.map": "/web-jhamil/static/js/787.0baa53f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.b72358fe.js"
+  ]
+}
